@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🏛️ UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
-### FACULTAD DE INGENIERÍA ESTADÍSTICA E INFORMÁTICA
-**ESCUELA PROFESIONAL DE INGENIERÍA INFORMÁTICA**
+### **ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS**
 
 ---
 
@@ -372,7 +371,7 @@ Exactitud Final (Test) : 97.08% (166 / 171 aciertos)
 ### 8.1. Clonación del Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/algoritmos-de-enjambre.git
+git clone https://github.com/Renso-Choquepata/AlgoritmosEnjambre.git
 cd "Algoritmo de Enjambre"
 ```
 
@@ -430,7 +429,7 @@ Abra y ejecute las celdas en el siguiente orden:
 <div align="center">
 
 **UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO**  
-*Facultad de Ingeniería Estadística e Informática — Escuela Profesional de Ingeniería Informática*  
+*Escuela Profesional de Ingeniería de Sistemas*  
 Puno, Perú — 2026
 
 </div>
